@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PO5_SERVICE\bin\PO5_SERVICE.dll.config
+C:\Users\User\source\repos\PO5_SERVICE\bin\PO5_SERVICE.dll
+C:\Users\User\source\repos\PO5_SERVICE\bin\PO5_SERVICE.pdb
+C:\Users\User\source\repos\PO5_SERVICE\obj\Debug\PO5_SERVICE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PO5_SERVICE\obj\Debug\PO5_SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PO5_SERVICE\obj\Debug\PO5_SERVICE.dll
+C:\Users\User\source\repos\PO5_SERVICE\obj\Debug\PO5_SERVICE.pdb
